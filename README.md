@@ -8,7 +8,7 @@
  
 </div>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET** 
 
 
 <h3 align="left">Connect with me:</h3>
