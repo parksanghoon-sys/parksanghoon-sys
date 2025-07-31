@@ -3,7 +3,10 @@
 <h4 align="center">I want to be a developing developer</
 h4>
 <div align="center">
-  
+
+## 소개
+발전하고 싶은 .NET. C++ 개발자이자 기술 애호가로, **WPF** UI 프레임워크와 도구에 관심이 많습니다. **객체 지향 적으로 좋은 코드(SOLID)** 를 준수하기 위해 노력하고 있습니다.
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksanghoon-sys%2Fhit-counter&count_bg=%235EA276&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
  
